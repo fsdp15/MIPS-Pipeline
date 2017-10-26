@@ -1,4 +1,4 @@
-This is an simplified MIPS Pipeline processor implemented in VHDL. I took a test implementation that was provided by
+This is a simplified MIPS Pipeline processor implemented in VHDL. I took a test implementation that was provided by
 Eduardo Todt (http://www.inf.ufpr.br/todt/) and modified it.
 
 In prog.txt are the intructions executed by the processor. You can change it if you want.
