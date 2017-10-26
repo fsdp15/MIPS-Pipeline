@@ -1,0 +1,19 @@
+initial_window_x -1
+left_justify_sigs 1
+enable_fast_exit 1
+splash_disable 1
+fontname_signals geneva 9
+fontname_waves geneva 9
+
+do_initial_zoom_fit 1
+#hide_sst 1
+initial_signal_window_width 100
+#zoom_center 1
+zoom_pow10_snap 1
+
+#initial_window_ypos 500
+#initial_window_xpos 500
+#initial_window_x 500
+#zoom_dynamic 1
+#enable_vcd_autosave 1
+

@@ -1,0 +1,101 @@
+[*]
+[*] GTKWave Analyzer v3.3.58 (w)1999-2014 BSI
+[*] Thu Jun 23 06:57:46 2016
+[*]
+[dumpfile] "/home/felipe/Downloads/Arquitetura/mrstd.vcd"
+[dumpfile_mtime] "Thu Jun 23 06:53:28 2016"
+[dumpfile_size] 190859
+[savefile] "/home/felipe/Downloads/Arquitetura/signals.gtkw"
+[timestart] 350780000
+[size] 1920 1027
+[pos] -2 -428
+*-23.557510 8390000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] cpu.
+[treeopen] cpu.c.
+[treeopen] cpu.dp.
+[treeopen] cpu.dp.reg_file.
+[treeopen] cpu.dp.reg_file.g1(10).
+[treeopen] cpu.dp.reg_file.g1(11).
+[treeopen] cpu.dp.reg_file.g1(12).
+[treeopen] cpu.dp.reg_file.g1(13).
+[treeopen] cpu.dp.reg_file.g1(16).
+[treeopen] cpu.dp.reg_file.g1(17).
+[treeopen] cpu.dp.reg_file.g1(18).
+[treeopen] cpu.dp.reg_file.g1(19).
+[treeopen] cpu.dp.reg_file.g1(8).
+[treeopen] cpu.dp.reg_file.g1(9).
+[sst_width] 223
+[signals_width] 278
+[sst_expanded] 1
+[sst_vpaned_height] 277
+@28
+cpu.dp.clk
+@200
+-FETCH
+@22
+cpu.pcf[31:0]
+cpu.instrf[31:0]
+@200
+-DECODE
+@22
+cpu.dp.pcd[31:0]
+cpu.dp.instrd[31:0]
+@24
+cpu.dp.rsd[4:0]
+cpu.dp.rtd[4:0]
+cpu.dp.rdd[4:0]
+@22
+cpu.dp.signimmd[31:0]
+@200
+-EXECUTE
+@22
+cpu.dp.pce[31:0]
+cpu.dp.instre[31:0]
+@200
+-REGISTRADORES ESTÃO EM DECIMAL
+@c00024
+cpu.dp.rse[4:0]
+@28
+(0)cpu.dp.rse[4:0]
+(1)cpu.dp.rse[4:0]
+(2)cpu.dp.rse[4:0]
+(3)cpu.dp.rse[4:0]
+(4)cpu.dp.rse[4:0]
+@1401200
+-group_end
+@24
+cpu.dp.rte[4:0]
+cpu.dp.rde[4:0]
+@22
+cpu.dp.alu_a[31:0]
+cpu.dp.alu_b[31:0]
+cpu.dp.signimme[31:0]
+@200
+-MEMORY
+@22
+cpu.dp.pcm[31:0]
+cpu.dp.instrm[31:0]
+cpu.dp.aluoutm[31:0]
+cpu.dp.writedatam[31:0]
+cpu.dp.readdatam[31:0]
+data_mem.address[31:0]
+@200
+-WRITEBACK
+@22
+cpu.dp.pcw[31:0]
+cpu.dp.instrw[31:0]
+cpu.dp.resultw[31:0]
+cpu.dp.writeregw[4:0]
+cpu.dp.reg_file.g1(16).rx.q[31:0]
+cpu.dp.reg_file.g1(19).rx.q[31:0]
+cpu.dp.reg_file.g1(17).rx.q[31:0]
+cpu.dp.reg_file.g1(18).rx.q[31:0]
+cpu.dp.reg_file.g1(8).rx.q[31:0]
+cpu.dp.reg_file.g1(9).rx.q[31:0]
+cpu.dp.reg_file.g1(10).rx.q[31:0]
+cpu.dp.reg_file.g1(11).rx.q[31:0]
+cpu.dp.reg_file.g1(12).rx.q[31:0]
+@23
+cpu.dp.reg_file.g1(13).rx.q[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
